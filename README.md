@@ -9,7 +9,7 @@ occasion, acheter des smartphones et réagir sur des publications existantes.
 une interface didiée
 
  Outils : Flutter , ReactJS , NodeJS , MYSQL , Xampp
-# Quelque photos de l'appliaction
+# Quelque photos de l'application
  ![GitHub](https://github.com/amir-hermi/mobile-store/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20(110).png)
  ![GitHub](https://github.com/amir-hermi/mobile-store/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20(108).png)
  ![GitHub](https://github.com/amir-hermi/mobile-store/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%20(109).png)
