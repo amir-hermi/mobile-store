@@ -111,8 +111,6 @@ class _MyDrawerState extends State<MyDrawer> {
                 preferences.remove("fullname");
                 preferences.remove("email");
                 Navigator.of(context).pushNamed('LogIn');
-
-
               },
             ):ListTile(
               title: Text("LogIn",
